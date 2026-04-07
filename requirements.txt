@@ -1,0 +1,8 @@
+Dataset-Car details v3.csv 
+pandas
+numpy
+sklearn
+seaborn
+Matplotlib
+pickle
+os
